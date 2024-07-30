@@ -1,6 +1,4 @@
 tb-gw-mqtt-broker
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 thingsboard/tb-gw-mqtt-broker:latest
-#支持指定架构
---platform=linux/386 linux/amd64 linux/amd64/v2
+
